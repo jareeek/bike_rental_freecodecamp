@@ -29,3 +29,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql -U freecodecamp -d bikes
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
